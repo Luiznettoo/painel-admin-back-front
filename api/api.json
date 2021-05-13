@@ -1,0 +1,152 @@
+{
+  "structureGallery": [
+    {
+      "id": 1,
+      "mediaTitle": "Área externa",
+      "alt": "",
+      "title": "",
+      "src": "http://localhost/lebloc/img/struc-1.jpg",
+      "linkUrl": "",
+      "images": [
+        {
+          "src": "http://localhost/lebloc/img/gallery-bg.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "http://localhost/lebloc/img/gallery-bg.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "http://localhost/lebloc/img/gallery-bg.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "http://localhost/lebloc/img/gallery-bg.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "mediaTitle": "Sala de Reuniões",
+      "alt": "",
+      "title": "",
+      "src": "http://localhost/lebloc/img/struc-9.jpg",
+      "linkUrl": "",
+      "images": [
+        {
+          "src": "http://localhost/lebloc/img/gallery-bg.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "http://localhost/lebloc/img/gallery-bg.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "http://localhost/lebloc/img/gallery-bg.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "http://localhost/lebloc/img/gallery-bg.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ]
+    }
+  ],
+  "eventCards": [
+    {
+      "cardDate": "07/04",
+      "cardIcon": {
+        "title": "",
+        "alt": "",
+        "src": "http://localhost/lebloc/icons/aliance.svg"
+      },
+      "cardTitle": "Casamento",
+      "cardText": "Juliana e Mateus"
+    },
+    {
+      "cardDate": "07/04",
+      "cardIcon": {
+        "title": "",
+        "alt": "",
+        "src": "http://localhost/lebloc/icons/microphone.svg"
+      },
+      "cardTitle": "Show",
+      "cardText": "Gorillaz"
+    }
+  ],
+    "myEvents": [
+        {
+            "title": "Event Example",
+            "date": "29/04/2019",
+            "images": [
+                {
+                    "thumbImage": "@/assets/img/main-event.jpg",
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "title": "Event Example 6",
+            "date": "30/06/2018",
+            "images": [
+                {
+                    "thumbImage": "@/assets/img/main-event.jpg",
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "src": "@/assets/img/big-picture.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        }
+    ]
+}
